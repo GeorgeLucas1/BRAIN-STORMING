@@ -3,6 +3,8 @@
 Projeto front-end desenvolvido em Vue.js, concebido como uma iniciativa autoral para evolução futura em uma plataforma de apoio à gestão de projetos.
 
 Nesta versão, o sistema é exclusivamente front-end, sem integração com back-end. Os dados são temporários e podem ser perdidos ao recarregar a aplicação.
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9a393024-0b66-4994-ac64-30df2dcbe33a" />
+
 
 ## Conceito Central
 
