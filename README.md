@@ -50,6 +50,8 @@ As reuniões são organizadas por **áreas**, cada uma com seus respectivos tóp
 - Inspeções e auditorias internas  
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/523c74e3-0f62-444f-a6af-e54c41ff6380" />
+
 
 ## Observações Técnicas
 - Aplicação exclusivamente front-end  
